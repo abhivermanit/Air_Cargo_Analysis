@@ -1,3 +1,5 @@
+https://s3.wns.com/S3_5/Images/GenericHeaderBanner/DesktopImg/18657/3006/s-and-l_deep-dive_air-cargo_for-design_desktop.jpg
+
 # sql_project
 I have solved the Air Cargo analysis using SQL queries. The data set can be found on Kaggle and I have mentioned the objective of the problem on the readme file.
 
